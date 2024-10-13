@@ -2,3 +2,4 @@ Flask>=2.3.2
 gunicorn>=20.0.4
 Flask-Cors>=4.0.1
 pillow>=10.3.0
+torch>=1.8.0  # see https://pytorch.org/get-started/locally (recommended)
